@@ -1,4 +1,5 @@
-<img src= [https://github.com/avinashsreeram/avinashsreeram/master/header.png](https://github.com/avinashsreeram/avinashsreeram/blob/main/header.png) alt="Avinash Sreeram Data Analyst">
+<img src="https://github.com/avinashsreeram/avinashsreeram/blob/main/header.png" alt="Avinash Sreeram Data Analyst">
+
 
 I am a Masters Student in Computer Science at University of Cincinnati, 2020. Along with my coursework, I worked on a Neo Initiative at a startup for 3 months. I gained practical knowledge of working with large, messy datasets,and wrote complex SQL queries to generate actionable business insights. I got the opportunity to collaborate with the data engineer and customer success teams to understand the business need of the client. This experience helped me to become fluent in curate Tableau dashboards to highlight key metrics to support the client's operational workflow. 
 
