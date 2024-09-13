@@ -20,9 +20,3 @@ I love to travel, bake and workout!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashsreeram&show_icons=true&locale=en" alt="avinashsreeram" /></p>
 png-gmail-icon-download-png-and-vector-1.png" width="30px"> </a>
-
-## Stats:
-[![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=avinashsreeram&show_icons=true&theme=radical)](https://github.com/avinashsreeram/github-readme-stats)
-
-## Top Languages: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apurvashekhar&layout=compact)](https://github.com/apurvashekhar/github-readme-stats)
