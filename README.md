@@ -19,4 +19,3 @@ I love to travel, bake and workout!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashsreeram&show_icons=true&locale=en&layout=compact" alt="avinashsreeram" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashsreeram&show_icons=true&locale=en" alt="avinashsreeram" /></p>
-png-gmail-icon-download-png-and-vector-1.png" width="30px"> </a>
