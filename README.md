@@ -6,8 +6,6 @@ I am a Masters Student in Computer Science at University of Cincinnati, 2024. Al
 Currently, I am working on honing my skills to write efficient code to handle large datasets and reduce runtime. During my free time, 
 I love to travel, bake and workout! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashsreeram&label=Profile%20views&color=0e75b6&style=flat" alt="avinashsreeram" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/avinashsn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinashsn/" height="30" width="40" /></a>
