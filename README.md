@@ -1,4 +1,3 @@
-<img src="https://github.com/avinashsreeram/avinashsreeram/blob/main/header.png" alt="Avinash Sreeram | Data Engineer | Power BI | Cloud Analytics" />
 
 ## 👋 Hello! I'm Avinash Nandikatti
 
